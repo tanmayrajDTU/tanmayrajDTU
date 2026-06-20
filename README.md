@@ -21,7 +21,7 @@ and cloud-native applications.
 
 <h2 align="left">🛠 Tech Stack</h2>
 
-<p align="left">
+<p align="center">
   <img title="TypeScript" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <img title="JavaScript" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img title="C++" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
@@ -67,14 +67,3 @@ Research project on image captioning and dangerous situation classification.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayrajDTU&layout=compact)
 
 ---
-
-## 🔥 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanmayrajDTU)
-
----
-
-## 🌐 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/tanmayraj
-- Email: tr17051999@gmail.com
