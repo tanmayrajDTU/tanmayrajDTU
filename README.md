@@ -18,7 +18,6 @@ and cloud-native applications.
 - ⚡ Designed systems serving millions of users
 - 🌍 Interested in Distributed Systems, System Design and Cloud Computing
 ---
-
 <h2 align="left">🛠 Tech Stack</h2>
 
 <p align="center">
