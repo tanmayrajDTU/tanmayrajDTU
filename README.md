@@ -49,7 +49,7 @@ and cloud-native applications.
 Scalable URL shortening service with Redis caching, analytics and rate limiting.
 
 ### TaskPulse
-Distributed job queue and monitoring platform inspired by Hangfire and BullMQ.
+Distributed job queue and monitoring platform inspired by Hangfire.
 
 ### Chess PGN Analyzer
 Analyze chess games, generate statistics and insights from PGN files.
