@@ -17,7 +17,9 @@ and cloud-native applications.
 - 🎓 B.Tech Software Engineering, DTU (CGPA: 9.05)
 - ⚡ Designed systems serving millions of users
 - 🌍 Interested in Distributed Systems, System Design and Cloud Computing
+
 ---
+
 <h2 align="left">🛠 Tech Stack</h2>
 
 <p align="center">
@@ -61,8 +63,8 @@ Research project on image captioning and dangerous situation classification.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanmayrajDTU&show_icons=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=tanmayrajDTU&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayrajDTU&layout=compact)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=tanmayrajDTU&layout=compact)
 
 ---
