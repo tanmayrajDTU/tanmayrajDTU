@@ -50,8 +50,8 @@ and cloud-native applications.
 ### Distributed URL Shortener
 Scalable URL shortening service with Redis caching, analytics and rate limiting.
 
-### TaskPulse
-Distributed job queue and monitoring platform inspired by Hangfire.
+### LedgerX
+Personal finance dashboard and analytics with live prices
 
 ### Chess PGN Analyzer
 Analyze chess games, generate statistics and insights from PGN files.
