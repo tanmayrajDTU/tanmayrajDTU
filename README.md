@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanmay Raj</h1>
+<h1 align="center">Hi , I'm Tanmay Raj</h1>
 
 <h3 align="center">
 Senior Software Engineer | Distributed Systems Engineer
